@@ -34,22 +34,12 @@ STRICT RULES
 2. AUTHENTIC SOURCES ONLY
 Use concepts and explanations from:
 - Stanford CS231n
-- OpenCV official docs
-- MIT OpenCourseWare
 - Andrew Ng deep learning material
-- PyImageSearch
-- Research papers where necessary
 - Standard textbooks:
   - Digital Image Processing by Gonzalez & Woods (lies in the root folder)
 
 
-3. CITE SOURCES
-At the end of every chapter:
-- Add references
-- Add source links
-- Mention textbook/reference names properly
-
-4. LANGUAGE STYLE
+3. LANGUAGE STYLE
 - Use SIMPLE ENGLISH
 - Explain technical terms immediately
 - Use analogies wherever useful
@@ -57,7 +47,7 @@ At the end of every chapter:
 - No unnecessary theory dumping
 - Use exam-friendly wording
 
-5. TEACH LIKE A PROFESSOR
+4. TEACH LIKE A PROFESSOR
 For every topic:
 - Start from basics
 - Build intuition
@@ -67,12 +57,12 @@ For every topic:
 - Then numerical/problem solving
 - Then exam questions
 
-6. THEORY TO NUMERICAL RATIO
+5. THEORY TO NUMERICAL RATIO
 Maintain:
 - 40% theory
 - 60% numerical/problem-solving/examples/applications
 
-7. VISUAL INFORMATICS (VERY IMPORTANT)
+6. VISUAL INFORMATICS (VERY IMPORTANT)
 Wherever possible include:
 - Diagrams
 - Flowcharts
@@ -92,12 +82,7 @@ Wherever possible include:
 If diagrams cannot be generated:
 First try to generate them using specific python scripts in the same root, and include them in the pdf.
 
-If still you cant generate diagrams, only then (as your last resort):
-- Create ASCII diagrams
-- Structured tables
-- Visual text blocks
-
-8. EXAM ORIENTED CONTENT
+7. EXAM ORIENTED CONTENT
 For EACH major topic include:
 - Important derivations
 - Frequently asked questions
@@ -109,7 +94,7 @@ For EACH major topic include:
 - Problem solving tricks
 - Common mistakes students make
 
-9. MEMORY OPTIMIZATION
+8. MEMORY OPTIMIZATION
 At the end of every section add:
 - Quick Revision Notes
 - 5-mark answer summary
@@ -118,14 +103,14 @@ At the end of every section add:
 - Mnemonics if useful
 - Important keywords
 
-10. MATHEMATICS HANDLING
+9. MATHEMATICS HANDLING
 For every mathematical concept:
 - Explain variables clearly
 - Explain intuition before formula
 - Solve examples step-by-step
 - Explain where formulas are used in CV
 
-12. PDF STRUCTURE
+10. PDF STRUCTURE
 The document should look like a REAL BOOK.
 
 
