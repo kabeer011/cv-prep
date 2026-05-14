@@ -125,21 +125,6 @@ For every mathematical concept:
 - Solve examples step-by-step
 - Explain where formulas are used in CV
 
-11. CODE EXAMPLES
-Where useful include:
-- Python + OpenCV examples
-- NumPy examples
-- Small CNN examples
-- Edge detection examples
-- Histogram equalization examples
-- Feature matching examples
-
-Code should:
-- Be beginner friendly
-- Be properly commented
-- Be runnable
-- Be short but useful
-
 12. PDF STRUCTURE
 The document should look like a REAL BOOK.
 
@@ -230,15 +215,14 @@ FOR EVERY TOPIC USE THIS FORMAT
 9. Worked examples
 10. Numerical problems
 11. Diagrams/visuals
-12. Code examples
-13. Advantages
-14. Limitations
-15. Comparison tables
-16. Exam questions
-17. Viva questions
-18. Quick revision summary
-19. Important formulas
-20. References
+12. Advantages
+13. Limitations
+14. Comparison tables
+15. Exam questions
+16. Viva questions
+17. Quick revision summary
+18. Important formulas
+19. References
 
 ========================
 OUTPUT QUALITY
